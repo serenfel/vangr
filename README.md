@@ -1,4 +1,6 @@
-# vangr
+# Vangr
+
+An Arch-Based Haven for Everyday Fólk
 
 ## What is Vangr?
 
