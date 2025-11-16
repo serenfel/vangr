@@ -17,4 +17,4 @@ While Linux has grown easier to use over the years, it still has rough edges. Fo
 
 More details available at https://vangr.net/
 
-Interested? Join our Discord, Fólkvangr - https://vangr.net/discord
+Interested? Join our Discord server, Fólkvangr - https://vangr.net/discord
